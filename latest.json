@@ -1,6 +1,6 @@
 {
-  "version": "0.9.2",
-  "file": "Hearthdelve_Linux_v0.9.2.zip",
-  "sha256": "cd397779e349d3e48b59e6006a93cf9170e13a5a87f5c4bacf24033d7c3910f2",
-  "notes": "Mørket og hallucinationer, afstemning i co-op, ny D&D-skrift, kisten får sider, Brønden er dobbelt så lang, bosserne er stærkere. Rettet: værten kan befri fanger, spyddets angreb."
+  "version": "0.9.3",
+  "file": "Hearthdelve_Linux_v0.9.3.zip",
+  "sha256": "2429b9e386aeb524b9fd89178d6c9ef74fb793148ec9c2c4e9f5126264373a1e",
+  "notes": "Minikort (M), hellige og vanhellige relikvier med glorie, horn og vinger, sjældnere legendariske og sæt-ting, nedtælling og advarsel når man lukker under et dyk."
 }
