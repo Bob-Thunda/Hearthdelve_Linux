@@ -1,6 +1,6 @@
 {
-  "version": "0.9.1",
-  "file": "Hearthdelve_Linux_v0.9.1.zip",
-  "sha256": "0e89be39135e269cec9d4e7e51828632e0c42a9b4ca656000369d1d9cf1ea644",
-  "notes": "Automatisk opdatering: fremover henter spillet selv nye versioner."
+  "version": "0.9.2",
+  "file": "Hearthdelve_Linux_v0.9.2.zip",
+  "sha256": "cd397779e349d3e48b59e6006a93cf9170e13a5a87f5c4bacf24033d7c3910f2",
+  "notes": "Mørket og hallucinationer, afstemning i co-op, ny D&D-skrift, kisten får sider, Brønden er dobbelt så lang, bosserne er stærkere. Rettet: værten kan befri fanger, spyddets angreb."
 }
