@@ -1,6 +1,6 @@
 {
-  "version": "0.9.5",
-  "file": "Hearthdelve_Linux_v0.9.5.zip",
-  "sha256": "6f1fb319583ceccbc48b3062a702deb08ed999a6759dc3a1807f6dbc283c20b6",
-  "notes": "Multiplayer-hub: se åbne spil og deltag med ét klik. Værter kan give spillet navn og adgangskode."
+  "version": "0.9.6",
+  "file": "Hearthdelve_Linux_v0.9.6.zip",
+  "sha256": "8fca368fd60b4a5fb6926c32ddf5acdbe52c0a3ca237a1cef7227f1ab04ece2a",
+  "notes": "Værten hoster selv: spillet åbner porten i routeren og giver en invitationskode. Ingen server-program."
 }
