@@ -1,6 +1,6 @@
 {
-  "version": "0.9.3",
-  "file": "Hearthdelve_Linux_v0.9.3.zip",
-  "sha256": "2429b9e386aeb524b9fd89178d6c9ef74fb793148ec9c2c4e9f5126264373a1e",
-  "notes": "Minikort (M), hellige og vanhellige relikvier med glorie, horn og vinger, sjældnere legendariske og sæt-ting, nedtælling og advarsel når man lukker under et dyk."
+  "version": "0.9.4",
+  "file": "Hearthdelve_Linux_v0.9.4.zip",
+  "sha256": "ef0c45b2f9b936e2d6e889925fda8789016db05d89e1332d5a9f8309033805f8",
+  "notes": "Fog of war: rum du ikke har været i er mørke, også på minikortet."
 }
