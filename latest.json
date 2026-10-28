@@ -1,6 +1,6 @@
 {
-  "version": "1.5.2",
-  "file": "Hearthdelve_Linux_v1.5.2.zip",
-  "sha256": "fd20a4f53a35f06ca41a30ab3099f68d3a599964b31b8d5a35d31e4c5fd374b7",
-  "notes": "Rettet: figuren gled væk fra helten efter spydstød. Esc-menuen har nu Vælg helt (karaktervalg) i stedet for Start et nyt spil."
+  "version": "1.6.0",
+  "file": "Hearthdelve_Linux_v1.6.0.zip",
+  "sha256": "ff12662685a47d04b831ea31847139f5cd2f0cf8a558653e2d8dc596986dbd63",
+  "notes": "Udstyr med højere niveau end din helt virker nu kun med en del af sin styrke (heltens niveau / tingens niveau), indtil helten når tingens niveau. Procenten står på tingen."
 }
