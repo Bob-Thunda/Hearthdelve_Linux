@@ -1,6 +1,6 @@
 {
-  "version": "1.6.1",
-  "file": "Hearthdelve_Linux_v1.6.1.zip",
-  "sha256": "a55811756b728f4b813526f98ac373df19b0ebe90cb906c2fc246cdc41d9870b",
-  "notes": "Fundne, købte og smedede ting har nu din helts niveau. Ny wiki med dropchancer, monstre, ting og opskrifter (mappen wiki og Esc-menuen)."
+  "version": "1.6.2",
+  "file": "Hearthdelve_Linux_v1.6.2.zip",
+  "sha256": "93bf28709994e7080386491d786e8bc99bcb5f75704b9f03435c748d9af1d13c",
+  "notes": "Wikien (dropchancer, monstre, ting, opskrifter) kommer nu med, når spillet opdaterer sig selv. Åbn den fra Esc-menuen."
 }
