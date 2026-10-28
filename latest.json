@@ -1,6 +1,6 @@
 {
-  "version": "1.5.1",
-  "file": "Hearthdelve_Linux_v1.5.1.zip",
-  "sha256": "dd0b1537d5a895a8c07b5423da16cfd6066e9e98c4c3cc99c220977c5ce4fc0d",
-  "notes": "Multiplayer: spillet viser nu den rigtige IP-adresse, en invitationskode virker også i samme hus, og fejlbeskederne forklarer hvorfor (fx forskellige versioner). Genfødsel bryder blodpagten."
+  "version": "1.5.2",
+  "file": "Hearthdelve_Linux_v1.5.2.zip",
+  "sha256": "fd20a4f53a35f06ca41a30ab3099f68d3a599964b31b8d5a35d31e4c5fd374b7",
+  "notes": "Rettet: figuren gled væk fra helten efter spydstød. Esc-menuen har nu Vælg helt (karaktervalg) i stedet for Start et nyt spil."
 }
