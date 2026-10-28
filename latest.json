@@ -1,6 +1,6 @@
 {
-  "version": "1.6.3",
-  "file": "Hearthdelve_Linux_v1.6.3.zip",
-  "sha256": "e80ca0d0dc791ba20b5be01d29c96f66e03cf1cbc18d7431826efa54b6d836be",
-  "notes": "The game now starts in English by default (a language you chose yourself is kept). Spillet starter nu på engelsk — dit eget valg af sprog bliver gemt."
+  "version": "1.6.4",
+  "file": "Hearthdelve_Linux_v1.6.4.zip",
+  "sha256": "0cf8e720a0757a401a3b836ab396040148b82e072dcc09ba559ca1c23423dc0d",
+  "notes": "The wiki and changelog are now in English by default (Danish version included)."
 }
