@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "file": "Hearthdelve_Linux_v1.0.2.zip",
-  "sha256": "ab0959ad6bf104ba32cac2fa53ab98ad53205128c3b937ce21211522ade7bd74",
-  "notes": "v1.0.2: Det er nok at have et relikvie for at låse Helvede/Himmeltrappen op, og Guldkammeret og Regnbuehulen er endnu sjældnere."
+  "version": "1.1.0",
+  "file": "Hearthdelve_Linux_v1.1.0.zip",
+  "sha256": "b1708ba0debd31120210d5bf3798f98703eda6d9c96e38e22af3abc77d57da05",
+  "notes": "Tilfældige hændelser i Dybet (leprechaunen, alteret, feringen, goblinfesten, ønskebrønden), Lepreconland bag leprechaunens regnbueportal, og en lille besked i spillet, når der er en ny version."
 }
