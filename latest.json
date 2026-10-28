@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "file": "Hearthdelve_Linux_v1.3.0.zip",
-  "sha256": "e49e5c4eeb1fcf98b0e63a4715d7032662da1b7abe60c6dc835de6294cee8e89",
-  "notes": "Monstrene er nu altid lige så stærke som din helt + 10 % (liv, skade og rustning) — også på de lave etager og for høje niveauer. I co-op måler de sig mod holdets gennemsnit."
+  "version": "1.4.0",
+  "file": "Hearthdelve_Linux_v1.4.0.zip",
+  "sha256": "7864d62358f5ceb9735a63397a1ccdbfe794c781e1f9a9bb90455f91f92827ad",
+  "notes": "Monstrene angriber 20 % hurtigere pr. etage, nogle etager har en flok elitemonstre eller en kæmpe mester, rummene er dobbelt så store med flere monstre, og bosserne er seje igen. Monstrene vokser til fuld styrke (helten + 10 %) frem mod etage 10."
 }
