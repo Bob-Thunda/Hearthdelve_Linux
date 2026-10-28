@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
-  "file": "Hearthdelve_Linux_v1.6.0.zip",
-  "sha256": "ff12662685a47d04b831ea31847139f5cd2f0cf8a558653e2d8dc596986dbd63",
-  "notes": "Udstyr med højere niveau end din helt virker nu kun med en del af sin styrke (heltens niveau / tingens niveau), indtil helten når tingens niveau. Procenten står på tingen."
+  "version": "1.6.1",
+  "file": "Hearthdelve_Linux_v1.6.1.zip",
+  "sha256": "a55811756b728f4b813526f98ac373df19b0ebe90cb906c2fc246cdc41d9870b",
+  "notes": "Fundne, købte og smedede ting har nu din helts niveau. Ny wiki med dropchancer, monstre, ting og opskrifter (mappen wiki og Esc-menuen)."
 }
