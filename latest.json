@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "file": "Hearthdelve_Linux_v1.1.0.zip",
-  "sha256": "b1708ba0debd31120210d5bf3798f98703eda6d9c96e38e22af3abc77d57da05",
-  "notes": "Tilfældige hændelser i Dybet (leprechaunen, alteret, feringen, goblinfesten, ønskebrønden), Lepreconland bag leprechaunens regnbueportal, og en lille besked i spillet, når der er en ny version."
+  "version": "1.2.0",
+  "file": "Hearthdelve_Linux_v1.2.0.zip",
+  "sha256": "482411874030c15416a21e3158e989a7ab9390a2a8010fe2d9f096fc09c8e92b",
+  "notes": "Genfødsel starter helten helt forfra (alt lægges i Arvekisten), Prestige-ting kun for helte med samme prestigeniveau, og prestigemærker (Bronze til Legende) over heltens hoved."
 }
