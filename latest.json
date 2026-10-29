@@ -1,6 +1,6 @@
 {
-  "version": "1.6.4",
-  "file": "Hearthdelve_Linux_v1.6.4.zip",
-  "sha256": "0cf8e720a0757a401a3b836ab396040148b82e072dcc09ba559ca1c23423dc0d",
-  "notes": "The wiki and changelog are now in English by default (Danish version included)."
+  "version": "1.7.0",
+  "file": "Hearthdelve_Linux_v1.7.0.zip",
+  "sha256": "2a916906943da6e99e9f1f60cad6399eb7bd2c50f10910e1ac5a88cfdcf8857c",
+  "notes": "Defensive skills on F for every class, new hand-made weapons and icons, and ordinary monsters speed up less per floor."
 }
