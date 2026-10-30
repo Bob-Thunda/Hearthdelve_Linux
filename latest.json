@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
-  "file": "Hearthdelve_Linux_v1.7.0.zip",
-  "sha256": "2a916906943da6e99e9f1f60cad6399eb7bd2c50f10910e1ac5a88cfdcf8857c",
-  "notes": "Defensive skills on F for every class, new hand-made weapons and icons, and ordinary monsters speed up less per floor."
+  "version": "1.8.0",
+  "file": "Hearthdelve_Linux_v1.8.0.zip",
+  "sha256": "e72c0931faa547eab6acb7de7b95c2f070fddd01e86685a7d82c4558fcc3ef2e",
+  "notes": "Rustning på kroppen, ny grafik i hele spillet, monstrene følger nu dit niveau i stedet for dit udstyr, og stærkere talenter."
 }
