@@ -1,6 +1,6 @@
 {
-  "version": "1.8.0",
-  "file": "Hearthdelve_Linux_v1.8.0.zip",
-  "sha256": "e72c0931faa547eab6acb7de7b95c2f070fddd01e86685a7d82c4558fcc3ef2e",
-  "notes": "Rustning på kroppen, ny grafik i hele spillet, monstrene følger nu dit niveau i stedet for dit udstyr, og stærkere talenter."
+  "version": "1.8.1",
+  "file": "Hearthdelve_Linux_v1.8.1.zip",
+  "sha256": "04ed974757b422974caec9faf1b83c881eb3cece091a711ace51a520935bcf94",
+  "notes": "Opdateringer kan nu komme i flere dele, så spillet kan vokse med den nye grafik."
 }
