@@ -1,6 +1,6 @@
 {
-  "version": "1.9.1",
-  "file": "Hearthdelve_Linux_v1.9.1.zip",
-  "sha256": "e62c0191f1bb5f2eae5eeb04f9122250885320a1634798c6fcad7530b6aa6bf4",
-  "notes": "Døden i byen sælger dine tabte ting tilbage, du mister kun halvdelen af dit guld, drikke koster det halve, monstrene går langsommere, og spillet har fået ny startskærm og nyt ikon."
+  "version": "1.9.2",
+  "file": "Hearthdelve_Linux_v1.9.2.zip",
+  "sha256": "d8e15b275d17cad4bac18ad6965938b9aa31b5af375b2034045327f68af4a2a0",
+  "notes": "Rettelser: heltene ved bålet kigger ind mod ilden, bålet er bygget om, og husenes tage vender rigtigt."
 }
