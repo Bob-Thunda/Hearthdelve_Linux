@@ -1,6 +1,6 @@
 {
-  "version": "1.9.5",
-  "file": "Hearthdelve_Linux_v1.9.5.zip",
-  "sha256": "82f04ff523715ea90bf61803799b860a81bf83ef119db758d8493f98e9abfa0c",
-  "notes": "Dine kæledyr står ikke længere oven i hinanden."
+  "version": "1.9.6",
+  "file": "Hearthdelve_Linux_v1.9.6.zip",
+  "sha256": "487530906addcf28f6469162bc581b04b8a5561e23c9b26a42ea9ea225441a4c",
+  "notes": "Krigstågen er nu mørk, drivende tåge med bløde kanter, og skattekisterne lyser gyldent."
 }
