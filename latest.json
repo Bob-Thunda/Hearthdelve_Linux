@@ -1,6 +1,6 @@
 {
-  "version": "1.9.0",
-  "file": "Hearthdelve_Linux_v1.9.0.zip",
-  "sha256": "98d9e666c6d711e136c10dba212195a19c1826322ebc3d79609f0914ac9b1f96",
-  "notes": "Peg og klik, frie evnetaster (Q W E R F G + højreklik), nyt bælte på 1-6, drikke kan købes i byen, og tasterne kan lægges om."
+  "version": "1.9.1",
+  "file": "Hearthdelve_Linux_v1.9.1.zip",
+  "sha256": "e62c0191f1bb5f2eae5eeb04f9122250885320a1634798c6fcad7530b6aa6bf4",
+  "notes": "Døden i byen sælger dine tabte ting tilbage, du mister kun halvdelen af dit guld, drikke koster det halve, monstrene går langsommere, og spillet har fået ny startskærm og nyt ikon."
 }
