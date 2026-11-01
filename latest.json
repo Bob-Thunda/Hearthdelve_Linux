@@ -1,6 +1,6 @@
 {
-  "version": "1.9.2",
-  "file": "Hearthdelve_Linux_v1.9.2.zip",
-  "sha256": "d8e15b275d17cad4bac18ad6965938b9aa31b5af375b2034045327f68af4a2a0",
-  "notes": "Rettelser: heltene ved bålet kigger ind mod ilden, bålet er bygget om, og husenes tage vender rigtigt."
+  "version": "1.9.3",
+  "file": "Hearthdelve_Linux_v1.9.3.zip",
+  "sha256": "ce48b6187721d433edcfd1374ec63ae7bcd962351857e3686d35d335e38ec9b0",
+  "notes": "Undvigelsen går nu lige igennem monstrene, så du ikke kan blive fanget."
 }
