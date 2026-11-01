@@ -1,6 +1,6 @@
 {
-  "version": "1.9.4",
-  "file": "Hearthdelve_Linux_v1.9.4.zip",
-  "sha256": "691f0ef0aa077a092f991e8e1b10088b0fd7b70d25875723175790c24c329e6a",
-  "notes": "Monstrene opdager dig på længere afstand, og dine kæledyr går efter monstre længere væk."
+  "version": "1.9.5",
+  "file": "Hearthdelve_Linux_v1.9.5.zip",
+  "sha256": "82f04ff523715ea90bf61803799b860a81bf83ef119db758d8493f98e9abfa0c",
+  "notes": "Dine kæledyr står ikke længere oven i hinanden."
 }
