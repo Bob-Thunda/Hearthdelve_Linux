@@ -1,6 +1,6 @@
 {
-  "version": "1.9.3",
-  "file": "Hearthdelve_Linux_v1.9.3.zip",
-  "sha256": "ce48b6187721d433edcfd1374ec63ae7bcd962351857e3686d35d335e38ec9b0",
-  "notes": "Undvigelsen går nu lige igennem monstrene, så du ikke kan blive fanget."
+  "version": "1.9.4",
+  "file": "Hearthdelve_Linux_v1.9.4.zip",
+  "sha256": "691f0ef0aa077a092f991e8e1b10088b0fd7b70d25875723175790c24c329e6a",
+  "notes": "Monstrene opdager dig på længere afstand, og dine kæledyr går efter monstre længere væk."
 }
