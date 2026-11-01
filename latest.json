@@ -1,6 +1,6 @@
 {
-  "version": "1.8.1",
-  "file": "Hearthdelve_Linux_v1.8.1.zip",
-  "sha256": "04ed974757b422974caec9faf1b83c881eb3cece091a711ace51a520935bcf94",
-  "notes": "Opdateringer kan nu komme i flere dele, så spillet kan vokse med den nye grafik."
+  "version": "1.9.0",
+  "file": "Hearthdelve_Linux_v1.9.0.zip",
+  "sha256": "98d9e666c6d711e136c10dba212195a19c1826322ebc3d79609f0914ac9b1f96",
+  "notes": "Peg og klik, frie evnetaster (Q W E R F G + højreklik), nyt bælte på 1-6, drikke kan købes i byen, og tasterne kan lægges om."
 }
