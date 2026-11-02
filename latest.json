@@ -1,6 +1,6 @@
 {
-  "version": "1.10.0",
-  "file": "Hearthdelve_Linux_v1.10.0.zip",
-  "sha256": "3a4a458b092e111796873ae37c5d37535786312a811f0797f240bd378ae8ea2a",
-  "notes": "Lejere og lejeboliger, landet kan udvides 3 gange, 16 nye skjulte samlerting, leprechaunen løber ikke gennem vægge, og den engelske udgave er gennemgået."
+  "version": "1.10.1",
+  "file": "Hearthdelve_Linux_v1.10.1.zip",
+  "sha256": "a76934aaf87e1e7259cedc33427f56918d1eaa9cccdad38affb3c82d0eb641f8",
+  "notes": "Auraer stabler: flere ting med samme aura ganger virkning og område. Nedbrudsrapport, hvis spillet lukker uventet. Leprechaunen dukker oftere op."
 }
