@@ -1,6 +1,6 @@
 {
-  "version": "1.10.4",
-  "file": "Hearthdelve_Linux_v1.10.4.zip",
-  "sha256": "6f58971099de6d8405bf42d349cb452ea212722fbcc6809e502e418090e795b8",
-  "notes": "Helvede og Himmeltrappen taber ikke længere Guldkammerets og Regnbuehulens navngivne ting."
+  "version": "1.11.0",
+  "file": "Hearthdelve_Linux_v1.11.0.zip",
+  "sha256": "3cd32dc0d863fa1cbc2cc15519c61cc178488552d9518966fda8348ae03dc55f",
+  "notes": "Ranglister: dybest, ærkebosser og lejere — delt mellem spillere, der spiller sammen online. Co-op kræver version 1.11.0."
 }
