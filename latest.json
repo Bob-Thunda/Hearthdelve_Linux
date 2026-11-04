@@ -1,6 +1,6 @@
 {
-  "version": "1.12.1",
-  "file": "Hearthdelve_Linux_v1.12.1.zip",
-  "sha256": "455994ef5d6a7e92b1d4ece1fa8e38d3f50b4864ad16018b68473f987a8d7cc0",
-  "notes": "Trappevinduet er lavet om: hjemvendingsrunen står for sig selv og skal holdes nede i et sekund."
+  "version": "1.12.2",
+  "file": "Hearthdelve_Linux_v1.12.2.zip",
+  "sha256": "d1320729395a0b6d1d66400ace1b0b824e4843ab2a80279ec8674dd7b991e112",
+  "notes": "Et nedbrud under et dyk koster ikke længere dine ting, og spillet gemmer på hver ny etage."
 }
