@@ -1,6 +1,8 @@
 {
-  "version": "1.12.3",
-  "file": "Hearthdelve_Linux_v1.12.3.zip",
-  "sha256": "dc3af91f5a6a2181c80c350ca3565180399c9a361591acf10c815b1b377c9cff",
-  "notes": "Send fejlrapporter direkte til spillets Discord fra Esc → Hændelseslog. Alle logfiler sendes samlet, og logmappen ryddes bagefter."
+  "version": "1.12.4",
+  "file": "Hearthdelve_Linux_v1.12.4.zip",
+  "sha256": "2cf679c0a21732728d818f9012f29f767defe2e5c6a6e74587ca5a787e3ffcd6",
+  "whole": true,
+  "parts": ["Hearthdelve_Linux_v1.12.4.zip.001","Hearthdelve_Linux_v1.12.4.zip.002","Hearthdelve_Linux_v1.12.4.zip.003","Hearthdelve_Linux_v1.12.4.zip.004","Hearthdelve_Linux_v1.12.4.zip.005","Hearthdelve_Linux_v1.12.4.zip.006","Hearthdelve_Linux_v1.12.4.zip.007"],
+  "notes": "Opdateringer virker nu også på langsomme forbindelser. Hændelsesloggen skriver en kort status fra etagen."
 }
