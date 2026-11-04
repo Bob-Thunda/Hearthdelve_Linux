@@ -1,8 +1,8 @@
 {
-  "version": "1.12.4",
-  "file": "Hearthdelve_Linux_v1.12.4.zip",
-  "sha256": "2cf679c0a21732728d818f9012f29f767defe2e5c6a6e74587ca5a787e3ffcd6",
+  "version": "1.12.5",
+  "file": "Hearthdelve_Linux_v1.12.5.zip",
+  "sha256": "08d7dfa5b24e1d4473c1095e3dd05e82c94576d2e46269a3893e141b28156008",
   "whole": true,
-  "parts": ["Hearthdelve_Linux_v1.12.4.zip.001","Hearthdelve_Linux_v1.12.4.zip.002","Hearthdelve_Linux_v1.12.4.zip.003","Hearthdelve_Linux_v1.12.4.zip.004","Hearthdelve_Linux_v1.12.4.zip.005","Hearthdelve_Linux_v1.12.4.zip.006","Hearthdelve_Linux_v1.12.4.zip.007"],
-  "notes": "Opdateringer virker nu også på langsomme forbindelser. Hændelsesloggen skriver en kort status fra etagen."
+  "parts": ["Hearthdelve_Linux_v1.12.5.zip.001","Hearthdelve_Linux_v1.12.5.zip.002","Hearthdelve_Linux_v1.12.5.zip.003","Hearthdelve_Linux_v1.12.5.zip.004","Hearthdelve_Linux_v1.12.5.zip.005","Hearthdelve_Linux_v1.12.5.zip.006","Hearthdelve_Linux_v1.12.5.zip.007"],
+  "notes": "Rettet: spillet kunne gå ned ved portalen til Lepreconland. / Fixed: the game could crash at the portal to Lepreconland."
 }
